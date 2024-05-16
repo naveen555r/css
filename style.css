@@ -1,0 +1,18 @@
+html,
+
+.login-btn {
+    background-color: #aacdac; 
+    border: none;
+    color: rgb(49, 69, 185);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  .login-btn:hover {
+    background-color: #09c012; 
+  }
